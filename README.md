@@ -12,15 +12,7 @@
 <br /><br />
 
   <article>
-    <img width="70" height="70" src="./images/git.png" />
-    <img width="70" height="70" src="./images/html.svg">
-    <img width="70" height="70" src="./images/css.svg">
-    <img width="70" height="70" src="./images/js.svg">
-    <img width="70" height="70" src="./images/react.svg">
-    <img width="70" height="70" src="./images/redux.svg">
-    <img width="70" height="70" src="./images/sass.svg">
-    <img width="70" height="70" src="./images/tailwindcss.svg">
-    <img width="70" height="70" src="./images/materialui.svg">
+    <img width="70" height="70" src="./images/git.png" /><img width="70" height="70" src="./images/html.svg"><img width="70" height="70" src="./images/css.svg"><img width="70" height="70" src="./images/js.svg"><img width="70" height="70" src="./images/react.svg"><img width="70" height="70" src="./images/redux.svg"><img width="70" height="70" src="./images/sass.svg"><img width="70" height="70" src="./images/tailwindcss.svg"><img width="70" height="70" src="./images/materialui.svg">
   </article>
 <hr>
   <br /><br />
@@ -36,6 +28,6 @@
 
   <!-- <article> -->
 
-<a  href="https://twitter.com/NarasimhuluV7"><img width="50" height="50" src="./images/twitter.svg" /></a><a href="https://www.linkedin.com/in/vasam-narasimhulu-8085901b3/"><img width="50" height="50" src="./images/linkdin.svg" /></a>
+<a  href="https://twitter.com/NarasimhuluV7"><img width="50" height="50" src="./images/twitter.svg" /></a> <a href="https://www.linkedin.com/in/vasam-narasimhulu-8085901b3/"><img width="40" height="50" src="./images/linkdin.svg" /></a>
 
   <!-- </article> -->
