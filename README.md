@@ -26,6 +26,6 @@
 
   <!-- <article> -->
 
-<a  href="https://twitter.com/NarasimhuluV7"><img width="50" height="50" src="./images/twitter.svg" /></a> <a href="https://www.linkedin.com/in/vasam-narasimhulu-8085901b3/"><img width="40" height="50" src="./images/linkdin.svg" /></a>
+<a  href="https://twitter.com/NarasimhuluV7"><img width="50" height="50" src="./images/twitter.svg" /></a> <a href="https://www.linkedin.com/in/vasam-narasimhulu-8085901b3/"> <img width="40" height="50" src="./images/linkdin.svg" /></a>
 
   <!-- </article> -->
