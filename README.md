@@ -11,9 +11,9 @@
 
 <br /><br />
 
-  <article>
+  <!-- <article>
     <img width="70" height="70" src="./images/git.png" /><img width="70" height="70" src="./images/html.svg"><img width="70" height="70" src="./images/css.svg"><img width="70" height="70" src="./images/js.svg"><img width="70" height="70" src="./images/react.svg"><img width="70" height="70" src="./images/redux.svg"><img width="70" height="70" src="./images/sass.svg"><img width="70" height="70" src="./images/tailwindcss.svg"><img width="70" height="70" src="./images/materialui.svg">
-  </article>
+  </article> -->
 <hr>
   <br /><br />
 
