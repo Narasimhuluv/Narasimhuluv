@@ -10,7 +10,7 @@
 ## Language and Tools
 
 <br /><br />
-<img width="50px" height="50px" src="./images/git.png" /><img width="50px" height="50px" src="./images/html.svg"><img width="50px" height="50px" src="./images/css.svg"><img width="50px" height="50px" src="./images/js.svg"><img width="50px" height="50px" src="./images/react.svg"><img width="50px" height="50px" src="./images/redux.svg"><img width="50px" height="50px" src="./images/sass.svg"><img width="50px" height="50px" src="./images/tailwindcss.svg"><img width="50px" height="50px" src="./images/materialui.svg">
+<img width="50px" height="50px" src="./images/git.png" /> <img width="50px" height="50px" src="./images/html.svg"> <img width="50px" height="50px" src="./images/css.svg"><img width="50px" height="50px" src="./images/js.svg"> <img width="50px" height="50px" src="./images/react.svg"> <img width="50px" height="50px" src="./images/redux.svg"> <img width="50px" height="50px" src="./images/sass.svg"> <img width="50px" height="50px" src="./images/tailwindcss.svg"> <img width="50px" height="50px" src="./images/materialui.svg">
 
 <hr>
   <br /><br />
